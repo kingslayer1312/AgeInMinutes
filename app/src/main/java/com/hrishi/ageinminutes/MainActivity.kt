@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             clickDatePicker()
         }
     }
-
+    // clickDatePicker() function for displaying calendar to pick date
     private fun clickDatePicker(){
 
         val myCalendar = Calendar.getInstance()
