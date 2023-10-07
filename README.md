@@ -1,4 +1,4 @@
-# AgeInMinutes
+# age-in-minutes
 
 My first app using Kotlin. Made as a part of a Kotlin course I pursued on Udemy.  
 The app lets you pick a date and then calculated the number of minutes elapsed  
